@@ -1,0 +1,27 @@
+10 premimum
+12=1440
+21
+13
+2047 normal
+
+
+
+5km
+day
+4.65
+
+25
+day
+2.25
+
+7
+night
+7is cheepest.
+
+cofee 
+warnaa
+2
+out put=2
+ 
+
+beer
